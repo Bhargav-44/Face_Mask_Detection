@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Face Mask Detection</title>
+<!--     <title>Face Mask Detection</title> -->
 </head>
 <body>
-    <h1>Face Mask Detection with CNN and VGG16</h1>
+    <h1>Face Mask Detection</h1>
     <p>This project implements a face mask detection system using a Sequential model of Convolutional Neural Network (CNN) and VGG16. Real-time face detection is achieved using MTCNN (Multi-Task Cascaded Convolutional Networks).</p>
     <h2>Dependencies</h2>
     <ul>
